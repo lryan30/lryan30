@@ -18,7 +18,7 @@ I come from a strong scientific and healthcare background and enjoy working with
 
 🎓 **Education:**
 
-Higher Diploma in Science in Data Analytics,
+Higher Diploma in Computing in Data Analytics,
 ATU Galway | 2024 – 2026
 - Python Programming
 - Databases & SQL
