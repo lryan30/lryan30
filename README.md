@@ -58,7 +58,7 @@ Web Technologies:
 
 💼 **Professional Background:**
 
-I have professional experience in highly regulated healthcare and laboratory environments, which has directly informed my approach to data analytics and software development.
+I have professional experience in highly regulated healthcare and laboratory environments, which has directly informed my approach to data analytics and technical project work.
 
 -   Laboratory & Scientific Settings – worked under GMP, SOP, and ISO standards, ensuring data accuracy, traceability, and quality control.
 
