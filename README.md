@@ -16,9 +16,9 @@ I come from a strong scientific and healthcare background and enjoy working with
 
 ---
 
-🎓 Education
+🎓 **Education:**
 
-*Higher Diploma in Science in Data Analytics* 
+Higher Diploma in Science in Data Analytics,
 ATU Galway | 2024 – 2026
 - Python Programming
 - Databases & SQL
@@ -26,14 +26,14 @@ ATU Galway | 2024 – 2026
 - Statistics for Data Analytics
 - Machine Learning
 
-*MSc. Molecular Medicine*, St. James’s Hospital, TCD, Dublin | 2016 – 2018
+MSc. Molecular Medicine, St. James’s Hospital, TCD, Dublin | 2016 – 2018
 
 *BSc. Bioanalysis and Biotechnology*,
 LIT, Limerick | 2009 – 2013
 
 ---
 
-💻 Technical Skills
+💻 **Technical Skills:**
 
 Programming & Data Analysis
 -   Python, SQL, Bash
@@ -56,7 +56,7 @@ Web Technologies
 
 ---
 
-💼 Professional Background
+💼 **Professional Background:**
 
 I have professional experience in highly regulated healthcare and laboratory environments, which has directly informed my approach to data analytics and software development.
 
@@ -69,7 +69,7 @@ This experience has strengthened my attention to detail, problem-solving skills,
 ---
 
 
-📌 Projects
+📌 **Projects:**
 
 This GitHub profile contains academic projects completed as part of my data analytics training.
 
@@ -81,3 +81,4 @@ My featured repositories, pinned on my profile below, demonstrate:
 
 Each project README outlines the project purpose, technologies used, and instructions for running the code where applicable.
 
+---
